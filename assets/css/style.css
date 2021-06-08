@@ -5,7 +5,17 @@ body {
 }
 
 #colors {
-  border: solid 2px chartreuse;
+  border: solid 2px rgb(44, 44, 44);
+}
+
+.color-box {
+  display: inline-block;
+  position: relative;
+  left: 7%;
+  margin: 12px;
+  text-align: center;
+  height: 140px;
+  width: 26%;
 }
 
 .color-box.b {
@@ -30,4 +40,9 @@ body {
 
 .color-box.s {
   background-color: rgb(193, 193, 193);
+}
+
+h2 {
+  position: relative;
+  left: 1%;
 }
