@@ -1,6 +1,8 @@
 @font-face {
   font-family: "Space Mono";
   src: url("https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap");
+  font-family: "Orbitron";
+  src: url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;900&display=swap");
 }
 
 body {
@@ -62,4 +64,8 @@ h2 {
 
 .space-mono {
   font-family: "Space Mono", monospace;
+}
+
+.orbitron {
+  font-family: "Orbitron";
 }
