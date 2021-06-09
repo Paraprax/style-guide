@@ -67,5 +67,9 @@ h2 {
 }
 
 .orbitron {
-  font-family: "Orbitron";
+  font-family: Orbitron, "Courier New", Courier, monospace;
+}
+
+.helvetica {
+  font-family: Helvetica, arial, sans-serif;
 }
