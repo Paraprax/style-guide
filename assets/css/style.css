@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Space Mono";
+  src: url("https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap");
+}
+
 body {
   background-color: rgb(160, 160, 160);
   color: rgb(56, 56, 56);
@@ -6,6 +11,7 @@ body {
 
 section {
   border: solid 2px rgb(44, 44, 44);
+  margin: 5px;
 }
 
 .color-box {
@@ -52,4 +58,8 @@ section {
 h2 {
   position: relative;
   left: 1%;
+}
+
+.space-mono {
+  font-family: "Space Mono", monospace;
 }
